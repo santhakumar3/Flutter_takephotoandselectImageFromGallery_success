@@ -1,3 +1,9 @@
 video link : https://youtu.be/v8gTsFj9sJQ?si=LgreCil3ojBzfaC2
 
 source code link : https://github.com/RaghibArshi/image_picker
+
+pub dev :
+
+dependency :  image_picker: ^1.0.5
+
+link : https://pub.dev/packages/image_picker
